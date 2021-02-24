@@ -1,5 +1,6 @@
 # Rocketpay
-
+## API de pagamentos desenvolvida na NLW #4 da RocketSeat
+Projeto utilizando Elixir e Phoenix
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
